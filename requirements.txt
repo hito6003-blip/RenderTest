@@ -1,2 +1,3 @@
 streamlit
-protobuf==4.25.3
+protobuf==5.26.1
+pydantic==2.7.1
