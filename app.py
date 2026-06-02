@@ -403,7 +403,7 @@ else:
             st.title(LABELS['tab3_title'])
 
             # 1. ファイルのアップロード機能
-            st.markdown(## LABELS['tab3_upload_section'])
+            st.markdown(LABELS['tab3_upload_section'])
             uploaded_file = st.file_uploader(LABELS['file_uploader'], type=["csv", "txt", "xlsx"])
 
             if uploaded_file is not None:
