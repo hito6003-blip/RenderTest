@@ -36,7 +36,7 @@ LABELS = {
     "db_success": "正常に {n} 件のデータを登録しました！",
 
     # Tab3
-    "tab3_title": "3:ファイルの UL&DL",
+    "tab3_title": "3:ファイルのアップロード & ダウンロード",
     "tab3_upload_section": "## 1. ファイルのアップロード",
     "file_uploader": "ファイルを選択してください",
     "download_header": "2. ファイルのダウンロード",
